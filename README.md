@@ -1,4 +1,4 @@
-# Quiz-game-Python
+# Quiz-game
 
 
 Fallowing user [Tech with Tim](https://www.youtube.com/@TechWithTim) Tech with Tim YouTube tutorial.
